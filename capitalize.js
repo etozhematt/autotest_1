@@ -9,5 +9,5 @@ export const capitalize = (text) => {
 
 export default capitalize;
 
-console.log("ВЫЗОВ ФАЙЛА С ФУНКЦИЕЙ");
+console.log("ВЫЗОВ ФАЙЛА С ФУНКЦИЕЙ");https://github.com/makonage/autotest/blob/main/capitalize
 console.log(capitalize("privet"));
